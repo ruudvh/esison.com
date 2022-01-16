@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   ![esison-logo](https://github.com/ruudvh/esison.com/raw/main/static/esison-light.png#gh-dark-mode-only)
-  ![esison-logo](https://github.com/ruudvh/esison.com/raw/main/static/esison-dark.pngg#gh-light-mode-only)
+  ![esison-logo](https://github.com/ruudvh/esison.com/raw/main/static/esison-dark.png#gh-light-mode-only)
  
   <h3 align="center">
     <a href="https://github.com/ruudvh/esison.com/">esison</a>
