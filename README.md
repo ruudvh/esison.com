@@ -2,12 +2,12 @@
 
 <br />
 <div align="center">
-  ![esison-logo](static/esison-light.png#gh-dark-mode-only)
-  ![esison-logo](static/esison-dark.png#gh-light-mode-only)
- 
-  <h3 align="center">
-    <a href="https://github.com/ruudvh/esison.com/">esison</a>
-  </h3>
+  <a href="https://github.com/ruudvh/esison.com/">
+    ![esison logo](static/esison-light.png#gh-dark-mode-only)
+    ![esison logo](static/esison-dark.png#gh-light-mode-only)
+  </a>
+
+<h3 align="center">esison</h3>
 
   <p align="center">
     esison
